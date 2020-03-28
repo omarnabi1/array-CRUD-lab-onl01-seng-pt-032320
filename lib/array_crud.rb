@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  my_array = ["basketball", "soccer", "football", "tennis",]
+  array = ["basketball", "soccer", "football", "tennis",]
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array.push("array", "element")
+  array.push("array", "element")
 end
 
 def add_element_to_start_of_array(array, element)
