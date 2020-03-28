@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  creat_an_array<<"football"
+  create_an_empty_array_an_array<<"football"
 end
 
 def add_element_to_start_of_array(array, element)
